@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\enzo.glanzi\\source\\repos\\projetofinaluc9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C75C9F1-3850-476D-B934-EB8C2594E7B5}|projetofinaluc9\\projetofinaluc9.csproj|c:\\users\\enzo.glanzi\\source\\repos\\projetofinaluc9\\projetofinaluc9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C75C9F1-3850-476D-B934-EB8C2594E7B5}|projetofinaluc9\\projetofinaluc9.csproj|solutionrelative:projetofinaluc9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C75C9F1-3850-476D-B934-EB8C2594E7B5}|projetofinaluc9\\projetofinaluc9.csproj|c:\\users\\enzo.glanzi\\source\\repos\\projetofinaluc9\\projetofinaluc9\\projetofinalelonmusk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C75C9F1-3850-476D-B934-EB8C2594E7B5}|projetofinaluc9\\projetofinaluc9.csproj|solutionrelative:projetofinaluc9\\projetofinalelonmusk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enzo.glanzi\\OneDrive - SENAC - SP\\Trabalhos\\Trabalhos da uc9 - L\u00F3gica de programa\u00E7\u00E3o\\Trabalhos finais\\estaticGenerodoix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -51,12 +51,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\enzo.glanzi\\source\\repos\\projetofinaluc9\\projetofinaluc9\\Program.cs",
-              "RelativeDocumentMoniker": "projetofinaluc9\\Program.cs",
-              "ToolTip": "C:\\Users\\enzo.glanzi\\source\\repos\\projetofinaluc9\\projetofinaluc9\\Program.cs*",
-              "RelativeToolTip": "projetofinaluc9\\Program.cs*",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBoAAAAgAAAA",
+              "Title": "projetofinalelonmusk.cs",
+              "DocumentMoniker": "C:\\Users\\enzo.glanzi\\source\\repos\\projetofinaluc9\\projetofinaluc9\\projetofinalelonmusk.cs",
+              "RelativeDocumentMoniker": "projetofinaluc9\\projetofinalelonmusk.cs",
+              "ToolTip": "C:\\Users\\enzo.glanzi\\source\\repos\\projetofinaluc9\\projetofinaluc9\\projetofinalelonmusk.cs",
+              "RelativeToolTip": "projetofinaluc9\\projetofinalelonmusk.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T22:18:47.402Z",
               "EditorCaption": ""
