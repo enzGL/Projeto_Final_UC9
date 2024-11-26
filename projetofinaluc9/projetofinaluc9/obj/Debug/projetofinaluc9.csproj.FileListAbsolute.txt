@@ -1,0 +1,7 @@
+C:\Users\enzo.glanzi\source\repos\projetofinaluc9\projetofinaluc9\obj\Debug\projetofinaluc9.csproj.AssemblyReference.cache
+C:\Users\enzo.glanzi\source\repos\projetofinaluc9\projetofinaluc9\obj\Debug\projetofinaluc9.csproj.CoreCompileInputs.cache
+C:\Users\enzo.glanzi\source\repos\projetofinaluc9\projetofinaluc9\bin\Debug\projetofinaluc9.exe.config
+C:\Users\enzo.glanzi\source\repos\projetofinaluc9\projetofinaluc9\bin\Debug\projetofinaluc9.exe
+C:\Users\enzo.glanzi\source\repos\projetofinaluc9\projetofinaluc9\bin\Debug\projetofinaluc9.pdb
+C:\Users\enzo.glanzi\source\repos\projetofinaluc9\projetofinaluc9\obj\Debug\projetofinaluc9.exe
+C:\Users\enzo.glanzi\source\repos\projetofinaluc9\projetofinaluc9\obj\Debug\projetofinaluc9.pdb
